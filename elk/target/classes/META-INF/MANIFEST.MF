@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: SRIRAM
+Build-Jdk: 17.0.4
+Implementation-Title: elk
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.interviewdot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/elk
+Created-By: Maven Integration for Eclipse
+
